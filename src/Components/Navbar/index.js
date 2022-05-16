@@ -13,7 +13,7 @@ const Navbar = () => {
                 <Btnicon />
 				<UlList>
 					<ListItem>
-						<LinkCss to="/ulta-1 /">Home</LinkCss>
+						<LinkCss to="/ulta-1/">Home</LinkCss>
 					</ListItem>
 					<ListItem>
 						<Achor href="#Work">Work</Achor>

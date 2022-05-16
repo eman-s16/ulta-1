@@ -12,8 +12,8 @@ class App extends React.Component {
 				<BrowserRouter>
 					<Navbar />
 					<Routes basename="/ulta-1 ">
-						<Route exact path="/ulta-1 " element={<Index />}  />
-						<Route exact path="/ulta-1 /Contact" element={<Contact />} />
+						<Route exact path="/ulta-1" element={<Index />}  />
+						<Route exact path="/ulta-1/Contact" element={<Contact />} />
 						
 					</Routes>
 				</BrowserRouter>
